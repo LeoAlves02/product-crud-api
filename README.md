@@ -1,6 +1,6 @@
 # Projeto de API de Gestão de Produtos
 
-<img src="./.github/1.PNG" alt="Projeto desenvolvido e testado utilizando o Insomnia para validar as APIs." width="200" height="300"/>
+<img src="./.github/1.PNG" alt="Projeto desenvolvido e testado utilizando o Insomnia para validar as APIs." width="400" height="200"/>
 
 Este projeto tem como objetivo fornecer uma API RESTful simples para o gerenciamento de produtos. Com o uso do Spring Boot, a aplicação oferece funcionalidades essenciais para registrar, atualizar, listar e excluir produtos. Ela foi desenvolvida para ser uma solução prática e eficiente para sistemas que necessitam de gerenciamento de inventário ou qualquer outra aplicação que precise controlar um conjunto de produtos.
 
